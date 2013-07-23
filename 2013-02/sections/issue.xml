@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NICPubFormat xmlns="http://www.newinchess.com/standards" xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="column" edition="2" type="Serial" name="NewInChess">
+    <xi:include href="front.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <main>
+        <xi:include href="cafe.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+        <xi:include href="feature.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </main>
+</NICPubFormat>

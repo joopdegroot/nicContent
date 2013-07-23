@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://www.newinchess.com/standards" xmlns:xlink="http://www.w3.org/1999/xlink"
+    forSection="interview" year="2013" issue="2" id="NIC_2013_2_interview_1">
+    <info>
+        <title>Ask some more</title>
+        <interviewed>
+        <person elo="2733" countryID="RUS">
+            <firstname>Evgeny</firstname>
+            <surname>Tomashevsky</surname>
+        </person>
+        <birthdate>1 july 1987</birthdate>
+        <birthplace>Engels, Saratov region, Russia</birthplace>
+        <residence>Saratov, Russia</residence>
+        </interviewed>
+        <abstract>
+            <para>"Big clash" between Pavel Eljanov and Wesley So: 1.d4 &#9816;f6 2.c4 g6
+                3&#9816;c3 d5 ½-½ </para>
+        </abstract>
+        <teaser priority="02">Is that all you have to ask?</teaser>
+    </info>
+    <streamer>"Not really, No."</streamer>
+    <qandaset>
+        <qanda>
+            <question><para>This is the first question, do you know why?</para></question>
+            <answer><para>Not really, No. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. </para></answer>
+        </qanda>
+        <qanda>
+            <question><para>This is the second question, do you know why?</para></question>
+            <answer><para>Not really, No. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. </para></answer>
+        </qanda>
+        <qanda>
+            <question><para>This is the third question, do you know why?</para></question>
+            <answer><para>Not really, No. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. What would the quick brown fox do jumping over the high fence each day. </para></answer>
+        </qanda>
+    </qandaset>
+</article>

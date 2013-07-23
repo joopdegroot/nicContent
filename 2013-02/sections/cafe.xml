@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://www.newinchess.com/standards" xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="cafe">
+    <title>NIC's Café</title>
+    <xi:include href="../article/NIC_2013_02_006_cafe_1.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="../article/NIC_2013_02_006_cafe_2.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="../article/NIC_2013_02_006_cafe_3.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="../article/NIC_2013_02_006_cafe_4.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</section>
+    

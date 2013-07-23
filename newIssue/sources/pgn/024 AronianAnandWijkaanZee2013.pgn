@@ -1,0 +1,92 @@
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.15"]
+[Round "4.5"]
+[White "Aronian, Levon"]
+[Black "Anand, Viswanathan"]
+[Result "*"]
+[ECO "D46"]
+[WhiteElo "2802"]
+[BlackElo "2772"]
+[Annotator "Anand"]
+[PlyCount "46"]
+[EventDate "2013.01.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Chess Today"]
+[SourceDate "2013.01.15"]
+
+{This game was played in Round 4. So far my tournament had gone very well with
+the third round win over .} 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 {
+Levon has done a bit of everything against the Meran and every time he makes a
+choice at the board you have to think 'Ah, so what do I want against this?'}
+Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bd6 {By the time we got this far I had the
+feeling we might be moving to the line that soon would be on the board.} 9. O-O
+O-O 10. Qc2 {This is the main move here.} Bb7 11. a3 {And this, too, is the
+main move. You can also play 11.e4 e5 12.h3 or 11.h3 immediately or other
+moves.} Rc8 {And now I was happy to play this, because I had this big idea. 11.
+..Rc8 in itself should not be a shocker, because Kasimdzhanov already used it
+against Topalov in the Grand Prix in London. In that game followed 12.b4 c5 13.
+bxc5 Bxf3 14.gxf3 Nxc5 15.dxc5 Rxc5 16.f4 Nd5 17.Bb2 Nxc3 18.Bxc3 Qc7 19.Rfc1
+Rc8 20.Bxh7+ Kh8 21.Bd3 Rxc3 22.Qxc3 Qxc3 23.Rxc3 Rxc3 24.Bxb5 Bxa3 25.Kg2 g6
+26.Rd1 Rc7 27.Rd7 Rxd7 28.Bxd7 Kg7 29.e4 Kf6 30.Kf3 a5 31.e5+ Ke7 32.Ba4 Bc5
+33.h3 Bb6 34.Bb5 Bc5 35.Ba4 Bb6 36.Bb5 Bc5 37.Ba4 Draw.} 12. Ng5 {At first
+sight this seems more logical. If instead of 11...Rc8 I had played 11...a6,
+then 12.Ng5 is an important line there. And if I'd continue 12...Bxh2+ then
+I'd rather have the pawn on a6 then the rook on c8. But the advantage of 11...
+Rc8 is that now I can play:} c5 $1 {The point of 11...Rc8, and easy to miss.
+Black ignores White's move.} 13. Nxh7 ({After} 13. Bxh7+ Kh8 14. Be4 Nxe4 15.
+Ngxe4 Bb8 {Black has good compensation. Either I take on d4 and you have an
+isolated pawn there, or he takes on c5 and you have two bishops staring at his
+kingside, plus a rook ready to swing over to the kingside. That's a helluva
+lot for a pawn. Plus you have drawing mechanisms such as} 16. Nxc5 Bxh2+ 17.
+Kxh2 Qh4+ 18. Kg1 Bxg2) ({After} 13. dxc5 {Black takes with the rook,} Rxc5 {
+, and once he frees himself his play is quite easy.}) ({Finally, in case of} 
+13. Nxb5 {now} Bxh2+ {works:} 14. Kxh2 Ng4+ 15. Kg1 Qxg5 {as White's kingside
+is much more exposed, because my white-squared bishop is not staring at a pawn
+on c6, but it's actually staring at g2, and after} 16. f3 {Black plays} cxd4 {
+with a clear advantage.}) 13... Ng4 {This, too, was more or less prep.} 14. f4
+({After} 14. h3 {I remembered} Bh2+ $1 ({on} 14... Qh4 15. f4 {is strong}) 15.
+Kh1 Qh4 {with good compensation for Black both after} 16. Be4 ({and} 16. d5
+Rfd8) 16... Bxe4 17. Qxe4 f5 18. Qxe6+ Kxh7 19. Qxd7 cxd4 20. exd4 Bb8 21. Kg1
+Bh2+ 22. Kh1 {and the bishop goes back to b8 and you repeat. However, after 14.
+f4 I couldn't remember all the details.}) 14... cxd4 15. exd4 {Here I spent
+about half an hour trying to remember what exactly Black was supposed to. But
+of course it's a big help if you know that basically Black is OK. That bit is
+clear, you just have to figure out how. And I remembered a line where I got a
+knight to d3 and from this I fgured out that the right move had to be 15...
+Bc5! So it was my prep, but I worked it out at the board again.} ({For
+completeness' sake, taking the exchange with} 15. Nxf8 {would give Black
+excellent compensation after} Bxf8 16. h3 dxc3 17. hxg4 Nf6 {.}) 15... Bc5 $1 (
+{As you may have noticed, after} 15... Qh4 {White could have transposed to the
+first comment between brackets after White's 14th move (the one in case Black
+doesn't interpolate 14...Bh2+!).} 16. h3) 16. Be2 {This is actually a mistake.
+But at the board everything looks scary and in contrast to me he didn't know
+that White's position was good.} ({After} 16. dxc5 Nxc5 17. Nxf8 Nxd3 {I get
+my knight to d3, but he manages to free his pieces:} 18. h3 Qd4+ 19. Kh1 Ndf2+
+20. Rxf2 Nxf2+ 21. Kh2 Kxf8 22. Qh7 Nd3 23. Qh8+ Ke7 24. Qh4+ f6 25. Qg3 Kf7
+26. Be3 {and this should end in a draw.}) 16... Nde5 $3 {Found after a little
+but of effort. It's obviously important to start in this order.} ({As} 16...
+Bxd4+ 17. Kh1 Nxh2 (17... Nde5 18. fxe5) {runs into} 18. Ng5 $1 {. And, to be
+honest, once you see the right ideas, the rest of the game plays itself.}) 17.
+Bxg4 ({The knight cannot be taken,} 17. fxe5 {, because of} Qxd4+ 18. Kh1 Qg1+
+19. Rxg1 Nf2# {mate.}) 17... Bxd4+ 18. Kh1 Nxg4 {Here I had to see that
+against both his 19th moves, 19...f5 wins.} 19. Nxf8 ({After} 19. Ng5 f5 {the
+win is a bit slower, but White is still helpless after} 20. h3 Rf6 21. Nf3 Rh6
+{.}) 19... f5 $1 ({Here it's important too. I should avoid} 19... Qh4 {because
+of} 20. Qh7+ {and White saves himself.}) 20. Ng6 Qf6 21. h3 ({There is not
+much left to say. If he plays} 21. Ne5 {then} Nxh2 {wins.}) 21... Qxg6 22. Qe2
+Qh5 {Attacking the h3-pawn.} 23. Qd3 $2 {I guess he got a bit tired at the end.
+} ({He could have prolonged the agony with} 23. Rf3 {but I don't think it
+would have changed the result:} Nf2+ 24. Kh2 ({or} 24. Rxf2 Qxh3+ 25. Kg1 Qxg2#
+{mate}) 24... Bxf3 25. Qxf3 Qxf3 26. gxf3 Bxc3 (26... Nd3 $19) 27. bxc3 Rxc3 {
+and Black wins.}) 23... Be3 {And after this move he had to resign immediately.
+At the press conference I brought up the comparison with Rotlevi-Rubinstein.
+As soon as I saw the position that was the game that came to mind. But I am
+sure Gelfand would have recognized it immediately as well, because he is a big
+Rubinstein fan also. I saw some very flattering reactions to our game,
+evergreen was one of them, and it would be silly to pretend that I didn't find
+this game incredibly beautiful, especially to play. I am quite proud of it.} *
+

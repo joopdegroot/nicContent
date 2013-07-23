@@ -1,0 +1,133 @@
+[Event "Reykjavk op"]
+[Site "?"]
+[Date "2013.02.26"]
+[Round "9"]
+[White "Ding Liren"]
+[Black "Eljanov,Pavel"]
+[Result "0-1"]
+[WhiteTitle "GM "]
+[BlackTitle "GM "]
+[WhiteElo "2709"]
+[BlackElo "2678"]
+[ECO "D15"]
+[NIC "SL 3.1.12"]
+[PlyCount "46"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 {The Chebanenko Slav remains popular.} 
+5. e3 Bf5 6. Qb3 b5 7. c5 a5 8. Ne5 a4 9. Qd1 g6 {An idea of Victor Bologan’s,
+who documented his expertise in this opening in his book The Chebanenko Slav.} 
+10. Bd2 Bg7 11. g4 {This aggressive looking move will mainly provoke Black’s
+aggression. Here and on the previous move, sacrificing the knight on c6 was an
+interesting possibility.}  11... Be6 12. Bg2 h5 13. h3 Qc7 14. f4 hxg4 15. hxg4
+Rxh1+ 16. Bxh1 Nbd7 17. g5 Nxe5 18. fxe5 Ng4 19. Qf3 {Diagram #} {White’s
+attacking chances are hard to detect. Now Eljanov jumps at the opportunity to
+sacrifice a piece for a couple of pawns and a fairly risk-free initiative.} 
+19... Nxe5 $5 20. dxe5 Qxe5 21. Qf4 $2 {An unfortunate idea that leads to a
+premature end of the game. He should have surrendered a third pawn with}  ( 21.
+a3 {, when after}  21... Qxg5 22. 0-0-0 {White's position is difficult but not
+hopeless.} ) 21... Qxf4 22. exf4 b4 23. Ne2 $2 {A weak move, which speeds up the
+end.}  23... a3 {The Chebanenko pawn has moved from a6 to a3 to deal the final
+blow. White resigned.}  0-1
+
+
+[Event "Lodz"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Rotlewi,Georg A."]
+[Black "Rubinstein,Akiba Kiwelowicz"]
+[Result "0-1"]
+[ECO "D02"]
+[NIC "TD 1.9"]
+[PlyCount "4"]
+[FEN "6k1/5ppp/pb2p3/1p2P3/1P2bPnP/P6r/1B4QP/R4R1K w - - 0 0  "]
+[Annotator "YB/30-120 Van der Tak"]
+
+{**Extended header information:||||000000010100000000000000000000|**} 
+{And White resigned in view of}  1. Rf2 ( 1. Rf3 Bxf3 2. Qxf3 Rxh2X) 1... Bxf2
+2. Qxe4 Rxh2X 0-1
+
+
+[Event "Wijk aan Zee A"]
+[Site "?"]
+[Date "2013.01.23"]
+[Round "10"]
+[White "Sokolov,Ivan"]
+[Black "Leko,Peter"]
+[Result "0-1"]
+[WhiteTitle "GM "]
+[BlackTitle "GM "]
+[WhiteElo "2663"]
+[BlackElo "2735"]
+[ECO "E53"]
+[NIC "NI 4.7"]
+[PlyCount "52"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 0-0 5. Bd3 c5 6. Nf3 d5 7. 0-0 cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Rc1 h6 12. Bh4 Nc6 13. Bd3 Be7 14. Bb1 Rc8 15.
+Re1 Nh5 {This, in combination with his next move, is what Leko had prepared for
+the GP in Tashkent.}  16. Qc2 g6 {Diagram #} {Now, who wouldn’t be tempted to
+sacrifice his rook on e6, with a white battery aimed at Black’s king?}  17. Rxe6
+{Sokolov takes the plunge, not knowing that he has entered a labyrinth of which
+Leko has the map.}  17... Nf4 {After this knight jump all the tactics seem to
+work for Black.}  18. Rxe7 ( {Black is also clearly better after}  18. Re4 Nb4
+19. Bxe7 Nxc2 20. Bxd8 Bxe4) 18... Nxe7 19. Qd2 ( 19. Re1 {does not promise
+White anything after}  19... Re8) 19... g5 20. Ne5 ( {Leko believed that White’s
+best try was}  20. Bg3 {, even if White would be in deep trouble after}  20...
+Neg6 21. Bxg6 fxg6 22. Bxf4 Rxf4 23. d5 Qd6) 20... Neg6 21. Nxg6 fxg6 22. Bg3
+Nxg2 23. Qc2 Qf6 24. Be5 Qf7 25. a3 Nh4 26. Ba2 Qxa2 {White resigned}  0-1
+
+
+[Event "Wijk aan Zee A"]
+[Site "?"]
+[Date "2013.01.26"]
+[Round "12"]
+[White "Carlsen,Magnus"]
+[Black "Nakamura,Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM "]
+[BlackTitle "GM "]
+[WhiteElo "2861"]
+[BlackElo "2769"]
+[ECO "B32"]
+[NIC "SI 32.8.4"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. g3 h5 {A reasonable move,
+according to Carlsen.}  7. N1c3 a6 8. Na3 b5 9. Nd5 Nge7 10. Bg2 Bg4 ( {He
+believed}  10... Nxd5 11. exd5 Ne7 {was clearly better than what Black got in
+the game.} ) 11. f3 Be6 12. c3 h4 13. Nc2 Bxd5 14. exd5 Na5 15. f4 Nf5 $6 (
+{Black should have played}  15... hxg3 16. hxg3 Rxh1+ 17. Bxh1 Qd7 18. Bg2 exf4
+19. Bxf4 Ng6 {although White keeps the chances.} ) 16. g4 h3 17. Be4 Nh4 18. 0-0
+g6 19. Kh1 Bg7 20. f5 gxf5 21. gxf5 {Diagram #} Ng2 $2 ( {The decisive mistake.
+He should have played}  21... Bf6 {and Black is still in the game.} ) 22. f6 $1
+Bf8 ( {After}  22... Bxf6 23. Qf3 Rh4 24. Bg5 Rf4 25. Bxf4 Nxf4 26. b3 {it’s
+hard tosee Black’s compensation for the exchange.} ) 23. Qf3 Qc7 24. Nb4 Nb7 25.
+Nc6 Nc5 26. Bf5 Nd7 27. Bg5 Rg8 28. Qh5 Nb6 {Diagram #} {Time for an elegant
+finish.}  29. Be6 Rxg5 30. Qxg5 fxe6 31. dxe6 {Black resigned.}  1-0
+
+
+[Event "Wijk aan Zee A"]
+[Site "?"]
+[Date "2013.01.25"]
+[Round "11"]
+[White "Hou Yifan"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[WhiteElo "2603"]
+[BlackElo "2772"]
+[Annotator "ANTON"]
+[SetUp "1"]
+[FEN "8/8/p2nkp1p/4p3/1P5N/3K2P1/P7/8 b - - 0 42"]
+[PlyCount "21"]
+[EventDate "2013.??.??"]
+
+42... Nf5 ({Black was winning after} 42... h5 43. a4 Kd5 {Anand thinks that he
+is simplifying his task by exchanging the knights, but makes an
+uncharacteristic calculating error.}) 43. Nxf5 Kxf5 44. a4 {And now he must
+have realized to his horror that the pawn ending is drawn. While the black
+king has to control the white pawns on the queenside, the white king has no
+problem doing the same on the rest of the board.} Ke6 45. g4 Kd5 46. Kc3 Ke4
+47. Kc2 Kd4 48. Kb3 e4 49. b5 axb5 50. axb5 e3 51. Kc2 Ke4 52. Kd1 Kd5 1/2-1/2
+

@@ -1,0 +1,73 @@
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.18"]
+[Round "6.5"]
+[White "Carlsen, M."]
+[Black "Sokolov, Ivan"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2861"]
+[BlackElo "2663"]
+[Annotator "Magnus Carlsen"]
+[PlyCount "95"]
+[EventDate "2013.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Bc5 8. a4
+O-O 9. Bg5 {The complications that arise after} (9. Nc3 Na5 {have been working
+well for Black, as far as I know. The text is a more positional approach,
+aiming for a slight advantage.}) 9... h6 10. Bh4 d6 11. c3 Qe7 {Ivan went for
+this after a bit of thought. I assumed the plan was to go ...Nd8-e6 at some
+point, while staying flexible and keeping the option of going ...g5 at the
+appropriate juncture.} 12. Na3 {This is just awful, especially in combination
+with my next move} (12. Nbd2 {would have been the sane choice.}) (12. Kh1 {was
+played in one of the three games that reached this position. It probably makes
+more sense than what I did.}) 12... Na5 {Of course.} 13. Bc2 ({I had assumed
+that} 13. axb5 Nxb3 14. Qxb3 {would work out for me, but Black actually has
+several good options here, including the simple} Rfb8 15. Qc2 (15. bxa6 Bxe4
+16. Qd1 Bxf3 17. Qxf3 g5 18. b4 Bb6 {and ...Rxa6}) 15... Bxa3 16. Rxa3 axb5 {
+and Black is absolutely fine.}) (13. Ba2 {was another option, but after the
+simple} Bxa3 14. bxa3 c5 {it appeared to me that Black would have too easy a
+game, with ...c4 coming up, so I decided to keep the tension at the cost of
+two tempi.}) 13... b4 14. Nb1 g5 15. Bg3 Nh5 {Obviously, Black is doing well
+now. However, the white position still has some long-term potential,
+especially based on the potentially offside knight on a5 (spoiler alert: it
+did not make another move in the game).} 16. Nbd2 Ba7 17. Re1 bxc3 18. bxc3
+Nxg3 19. hxg3 Qf6 20. Qe2 Rfb8 21. Rab1 Bc8 22. Nf1 {It seems that White is
+not really worse here, but it was only after the next move that I really
+started to hope for something more.} Rxb1 {In slight time-pressure, Ivan
+decided to simplify. However, the double rook exchange loses crucial time,
+allowing me to get in Ne3 and d4.} (22... Be6 {or most other sensible moves
+would have been absolutely fine.}) 23. Rxb1 Rb8 24. Rxb8 Bxb8 25. Ne3 Ba7 (
+25... Nc6 26. Nh2 {with Ng4 to come would also have been unpleasant.}) 26. d4 {
+This is the point. I have time to develop an initative before he can bring the
+knight and bishop back into play.} g4 {This just allows the second knight to
+jump in.} (26... exd4 27. cxd4 Bxd4 28. Nd5 {is no good either, but}) (26... c6
+{would still have been reasonably solid.}) 27. Nd5 Qd8 28. Nh4 c6 (28... exd4
+29. Nf5 {spells disaster for Black.}) 29. Ne3 h5 (29... exd4 30. Nhf5 {is
+similar to the previous note.}) 30. Nhf5 Qf6 31. Qd3 Bb6 32. Bb1 Kf8 33. Ba2
+Bc7 {I've achieved everything I wanted, but it's still not easy to break
+through, as attempts to play on the kingside with f3 or f4 did not appear
+convincing at all. I decided that I probably needed to attack a6 somehow,
+possibly after including d5, ...c5.} 34. Qb1 Ke8 35. Qb4 {Now the bishop is
+going to d3, and the queen to e2 or f1.} d5 {A tempting move, especially in
+time-trouble, but now the centralised white pieces will rule. However, passive
+defence was also unpromising, for instance} (35... Kf8 36. Bb1 Ke8 37. Bd3 Kf8
+38. Qb1 Kg8 39. d5 c5 40. Qf1 Bd7 41. Bxa6 Bxa4 42. Bb5 Bb3 43. f3 gxf3 44.
+gxf3 {and the black kingside is helpless, with all the minor pieces stranded
+on the queenside.}) 36. Bb1 exd4 37. cxd4 dxe4 38. Bxe4 Be6 {This loses, but
+it is hard to suggest anything better.} 39. Qc5 Kd7 40. d5 cxd5 41. Nxd5 Bxd5
+42. Qxd5+ Kc8 43. Ne3 {Material is still equal, but the difference in activity
+and king safety is simply too huge.} Qa1+ 44. Kh2 Qxa4 (44... h4 {was the one
+move I needed to calculate, but it is not too hard to see that after} 45. Qa8+
+Kd7 46. Bf5+ Ke7 47. Nd5+ Kd6 48. Nxc7 hxg3+ 49. fxg3 Kxc7 50. Qc8+ Kb6 51.
+Qd8+ Ka7 52. Qxa5 Qh8+ 53. Kg1 Qd4+ 54. Kf1 {White easily escapes the checks
+and wins.}) 45. Qa8+ Kd7 46. Nd5 {This one is just lazy. I played it fairly
+quickly, assuming that 46...Bd8, which he did in fact play, was the only move.}
+({I should have gone} 46. Bf5+ Ke7 47. Qa7 Qc6 48. Qd4 {. Centralisation! The
+threat of Nd5 is lethal.}) 46... Bd8 ({Now} 46... Qc6 {would have allowed
+Black to fight on for a while, as there is no clear-cut win:} 47. Qh8 Qe6 48.
+Qxh5 Kd6) ({And} 46... Qd4 47. Qf8 Qe5 48. Qxf7+ Kc6 49. Nf6+ Kb5 50. Bd3+ Kc6
+51. Nxh5 {would also have prolonged the resistance.}) 47. Bf5+ Ke8 48. Qc8 {
+This one he evidently missed. There is no defence to Bd7+ followed by Nf6+, so
+he resigned.} 1-0
+

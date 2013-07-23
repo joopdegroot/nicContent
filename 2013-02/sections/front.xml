@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns="http://www.newinchess.com/standards"
+       xmlns:xlink="http://www.w3.org/1999/xlink">
+   <cover>
+      <coverPhoto>
+         <photographer>
+            <firstname>Vishy</firstname>
+            <surname>Anand</surname>
+            <affiliation>New In Chess</affiliation>
+         </photographer>
+         <imageobject role="backgroundFullpage">
+            <imagedata align="center"
+                       depth="4256"
+                       width="2832"
+                       fileref="../images/cover/Zurich2013 122 anand.jpg"/>
+         </imageobject>
+      </coverPhoto>
+      <teaser priority="10" articleID="NIC_2013_02_012_wijkaanzee">Another Sweeping Victory for Magnus Carlsen</teaser>
+   </cover>
+   <toc>
+      <tocentry pagenum="00" articleID="NIC_2013_02_006_cafe_1">
+         <title>Mentality</title>
+         <abstract>
+            <para>"Big clash" between Pavel Eljanov and Wesley So: 1.d4 Nf6 2.c4 g6 3.Nc3 d5 ½-½ </para>
+         </abstract>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_02_006_cafe_2">
+         <title> What is a rule?</title>
+         <abstract>
+            <para>Among the most common measures these days to keep players from making short draws
+                are the anti-drawing rules that forbid them to end a game peacefully before a
+                certain number of moves have been made.</para>
+         </abstract>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_02_006_cafe_3">
+         <title>Watching with the stars</title>
+         <abstract>
+            <para>After his sweeping victory in Wijk aan Zee, Magnus Carlsen felt he had deserved a
+                break</para>
+         </abstract>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_02_006_cafe_4">
+         <title>Sweet dreams</title>
+         <abstract>
+            <para>The Alekhine Memorial: Andrei Filatov brings art and chess together</para>
+         </abstract>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_02_012_wijkaanzee">
+         <title>2872, but not there yet</title>
+         <abstract>
+            <para>Report Wijk aan Zee 2013 A-group</para>
+         </abstract>
+      </tocentry>
+   </toc>
+   <contributors>
+      <title>CONTRIBUTORS TO THIS ISSUE</title>
+      <contributor>
+         <firstname>Dirk</firstname>
+         <surname>Ten Geuzedam</surname>
+         <affiliation>Editorial Board</affiliation>
+      </contributor>
+      <contributor countryID="NLD">
+         <firstname>Dirk Jan</firstname>
+         <surname>ten Geuzendam</surname>
+         <affiliation>Editorial Board</affiliation>
+      </contributor>
+   </contributors>
+   <contributors>
+      <title>PHOTOS AND ILLUSTRATIONS</title>
+      <contributor>
+         <firstname/>
+         <surname/>
+      </contributor>
+      <contributor>
+         <firstname/>
+         <surname>New In Chess</surname>
+      </contributor>
+      <contributor>
+         <firstname>Macauley</firstname>
+         <surname>Peterson</surname>
+      </contributor>
+      <contributor>
+         <firstname>X</firstname>
+         <surname>X</surname>
+      </contributor>
+   </contributors>
+   <contributors>
+      <title>COVER PHOTO</title>
+      <contributor>
+         <firstname>Vishy</firstname>
+         <surname>Anand</surname>
+         <affiliation>New In Chess</affiliation>
+      </contributor>
+   </contributors>
+   <colophon>
+      <title>COLOPHON</title>
+      <para>
+         <emphasis role="bold">PUBLISHER:</emphasis> Allard Hoogland</para>
+      <para>
+         <emphasis role="bold">EDITORS-IN-CHIEF:</emphasis> Dirk Jan ten Geuzendam, Jan
+    Timman</para>
+      <para>
+         <emphasis role="bold">CONTRIBUTING EDITOR:</emphasis> Anish Giri</para>
+      <para>
+         <emphasis role="bold">EDITORS:</emphasis> Peter Boel, RenÈ Olthof</para>
+      <para>
+         <emphasis role="bold">ART-DIRECTION:</emphasis> Jan Scholtus</para>
+      <para>
+         <emphasis role="bold">PRODUCTION:</emphasis> Joop de Groot</para>
+      <para>
+         <emphasis role="bold">TRANSLATORS:</emphasis> Sarah Hurst, Ken Neat, Piet
+    Verhagen</para>
+      <para>
+         <emphasis role="bold">SALES AND ADVERTISING:</emphasis> Remmelt Otten</para>
+      <para/>
+      <para>© No part of this magazine may be reproduced, stored in a retrieval system or
+    transmitted in any form or by any means, recording or otherwise, without the prior
+    permission of the publisher.</para>
+      <para/>
+      <para>
+         <emphasis role="bold">NEW IN CHESS</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">P.O. BOX 1093</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">1810 KB ALKMAAR</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">THE NETHERLANDS</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">PHONE: 00-31-(0)72-51 27 137</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">FAX: 00-31-(0)72-51 58 234</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">E-MAIL:</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">SUBSCRIPTIONS:</emphasis> nic@newinchess.com</para>
+      <para>
+         <emphasis role="bold">EDITORS:</emphasis> editors@newinchess.com</para>
+      <para>
+         <emphasis role="bold">SALES AND ADVERTISING:</emphasis> otten@newinchess.com</para>
+      <para/>
+      <para>
+         <emphasis role="bold">BANK DETAILS:</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">IBAN:</emphasis> NL41ABNA 0589126024</para>
+      <para>
+         <emphasis role="bold">BIC:</emphasis> ABNANL2A in favour of Interchess BV,Alkmaar, The Netherlands</para>
+      <para/>
+      <para>
+         <emphasis role="bold">WWW.NEWINCHESS.COM</emphasis>
+      </para>
+   </colophon>
+</front>

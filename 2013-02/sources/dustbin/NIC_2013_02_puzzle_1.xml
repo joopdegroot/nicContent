@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://www.newinchess.com/standards" xmlns:xlink="http://www.w3.org/1999/xlink"
+    forSection="puzzle" year="2013" issue="2" id="NIC_2013_2_puzzle_1">
+    <info>
+        <title>Killer K's</title>
+        <author>
+            <firstname>Yury</firstname><surname>Kinzansky</surname>
+        </author>
+    </info>
+    <streamer>"Not really, No."</streamer>
+    <qandaset>
+        <qanda>
+            <question>
+                <para>This is the first question, do you know why?</para>
+            </question>
+            <answer>
+                <para>Not really, No. What would the quick brown fox do jumping over the high fence
+                    each day. What would the quick brown fox do jumping over the high fence each
+                    day. What would the quick brown fox do jumping over the high fence each day.
+                    What would the quick brown fox do jumping over the high fence each day. What
+                    would the quick brown fox do jumping over the high fence each day. What would
+                    the quick brown fox do jumping over the high fence each day. </para>
+            </answer>
+        </qanda>
+        <qanda>
+            <question>
+                <para>This is the second question, do you know why?</para>
+            </question>
+            <answer>
+                <para>Not really, No. What would the quick brown fox do jumping over the high fence
+                    each day. What would the quick brown fox do jumping over the high fence each
+                    day. What would the quick brown fox do jumping over the high fence each day.
+                    What would the quick brown fox do jumping over the high fence each day. What
+                    would the quick brown fox do jumping over the high fence each day. What would
+                    the quick brown fox do jumping over the high fence each day. </para>
+            </answer>
+        </qanda>
+        <qanda>
+            <question>
+                <para>This is the third question, do you know why?</para>
+            </question>
+            <answer>
+                <para>Not really, No. What would the quick brown fox do jumping over the high fence
+                    each day. What would the quick brown fox do jumping over the high fence each
+                    day. What would the quick brown fox do jumping over the high fence each day.
+                    What would the quick brown fox do jumping over the high fence each day. What
+                    would the quick brown fox do jumping over the high fence each day. What would
+                    the quick brown fox do jumping over the high fence each day. </para>
+            </answer>
+        </qanda>
+    </qandaset>
+</article>
