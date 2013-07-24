@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns="http://www.newinchess.com/standards"
+       xmlns:xlink="http://www.w3.org/1999/xlink">
+   <cover>
+      <coverPhoto>
+         <photographer>
+            <firstname/>
+            <surname/>
+         </photographer>
+         <imageobject role="backgroundFullpage">
+            <imagedata align="center" depth="1800" width="600" fileref="dummy.jpg"/>
+         </imageobject>
+      </coverPhoto>
+   </cover>
+   <xi:include href="../../static/colophon.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</front>

@@ -1,0 +1,1000 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game xmlns="http://www.newinchess.com/standards"
+  id="G95239-cafe">
+  <contributor><firstname></firstname><surname>YB/30-120 Van der Tak</surname></contributor>
+  <event>Lodz</event>
+  <site>?</site>
+  <date>1907-01-01</date>
+  <round>?</round>
+  <white><firstname>Georg A.</firstname><surname>Rotlewi</surname></white>
+  <black><firstname>Akiba Kiwelowicz</firstname><surname>Rubinstein</surname></black>
+  <result>0-1</result>
+  <classification
+    NIC="TD 1.9"
+    ECO="D02"></classification>
+  <prologue><para>And White resigned in view of</para></prologue>
+  <moves
+    fenDiagram="6k1/5ppp/pb2p3/1p2P3/1P2bPnP/P6r/1B4QP/R4R1K"
+    id="G95239-cafe_M0"
+    nextID="G95239-cafe_M1"><board visible="true">
+      <row position="8">
+        <field position="a8"/>
+        <field position="b8"/>
+        <field position="c8"/>
+        <field position="d8"/>
+        <field position="e8"/>
+        <field position="f8"/>
+        <field position="g8">
+          <piece type="k"/>
+        </field>
+        <field position="h8"/>
+      </row>
+      <row position="7">
+        <field position="a7"/>
+        <field position="b7"/>
+        <field position="c7"/>
+        <field position="d7"/>
+        <field position="e7"/>
+        <field position="f7">
+          <piece type="p"/>
+        </field>
+        <field position="g7">
+          <piece type="p"/>
+        </field>
+        <field position="h7">
+          <piece type="p"/>
+        </field>
+      </row>
+      <row position="6">
+        <field position="a6">
+          <piece type="p"/>
+        </field>
+        <field position="b6">
+          <piece type="b"/>
+        </field>
+        <field position="c6"/>
+        <field position="d6"/>
+        <field position="e6">
+          <piece type="p"/>
+        </field>
+        <field position="f6"/>
+        <field position="g6"/>
+        <field position="h6"/>
+      </row>
+      <row position="5">
+        <field position="a5"/>
+        <field position="b5">
+          <piece type="p"/>
+        </field>
+        <field position="c5"/>
+        <field position="d5"/>
+        <field position="e5">
+          <piece type="P"/>
+        </field>
+        <field position="f5"/>
+        <field position="g5"/>
+        <field position="h5"/>
+      </row>
+      <row position="4">
+        <field position="a4"/>
+        <field position="b4">
+          <piece type="P"/>
+        </field>
+        <field position="c4"/>
+        <field position="d4"/>
+        <field position="e4">
+          <piece type="b"/>
+        </field>
+        <field position="f4">
+          <piece type="P"/>
+        </field>
+        <field position="g4">
+          <piece type="n"/>
+        </field>
+        <field position="h4">
+          <piece type="P"/>
+        </field>
+      </row>
+      <row position="3">
+        <field position="a3">
+          <piece type="P"/>
+        </field>
+        <field position="b3"/>
+        <field position="c3"/>
+        <field position="d3"/>
+        <field position="e3"/>
+        <field position="f3"/>
+        <field position="g3"/>
+        <field position="h3">
+          <piece type="r"/>
+        </field>
+      </row>
+      <row position="2">
+        <field position="a2"/>
+        <field position="b2">
+          <piece type="B"/>
+        </field>
+        <field position="c2"/>
+        <field position="d2"/>
+        <field position="e2"/>
+        <field position="f2"/>
+        <field position="g2">
+          <piece type="Q"/>
+        </field>
+        <field position="h2">
+          <piece type="P"/>
+        </field>
+      </row>
+      <row position="1">
+        <field position="a1">
+          <piece type="R"/>
+        </field>
+        <field position="b1"/>
+        <field position="c1"/>
+        <field position="d1"/>
+        <field position="e1"/>
+        <field position="f1">
+          <piece type="R"/>
+        </field>
+        <field position="g1"/>
+        <field position="h1">
+          <piece type="K"/>
+        </field>
+      </row>
+    </board><move
+      id="G95239-cafe_M1"
+      nextID="G95239-cafe_M6"
+      parentID="G95239-cafe_M0"
+      longNotation="1.Rf1-f2"
+      activeColor="b"
+      fenDiagram="6k1/5ppp/pb2p3/1p2P3/1P2bPnP/P6r/1B3RQP/R6K"><fideNotation>1.Rf2</fideNotation><board
+        visible="false"><row
+          position="8"><field
+            position="a8"></field><field
+            position="b8"></field><field
+            position="c8"></field><field
+            position="d8"></field><field
+            position="e8"></field><field
+            position="f8"></field><field
+            position="g8"><piece
+              type="k"></piece></field><field
+            position="h8"></field></row><row
+          position="7"><field
+            position="a7"></field><field
+            position="b7"></field><field
+            position="c7"></field><field
+            position="d7"></field><field
+            position="e7"></field><field
+            position="f7"><piece
+              type="p"></piece></field><field
+            position="g7"><piece
+              type="p"></piece></field><field
+            position="h7"><piece
+              type="p"></piece></field></row><row
+          position="6"><field
+            position="a6"><piece
+              type="p"></piece></field><field
+            position="b6"><piece
+              type="b"></piece></field><field
+            position="c6"></field><field
+            position="d6"></field><field
+            position="e6"><piece
+              type="p"></piece></field><field
+            position="f6"></field><field
+            position="g6"></field><field
+            position="h6"></field></row><row
+          position="5"><field
+            position="a5"></field><field
+            position="b5"><piece
+              type="p"></piece></field><field
+            position="c5"></field><field
+            position="d5"></field><field
+            position="e5"><piece
+              type="P"></piece></field><field
+            position="f5"></field><field
+            position="g5"></field><field
+            position="h5"></field></row><row
+          position="4"><field
+            position="a4"></field><field
+            position="b4"><piece
+              type="P"></piece></field><field
+            position="c4"></field><field
+            position="d4"></field><field
+            position="e4"><piece
+              type="b"></piece></field><field
+            position="f4"><piece
+              type="P"></piece></field><field
+            position="g4"><piece
+              type="n"></piece></field><field
+            position="h4"><piece
+              type="P"></piece></field></row><row
+          position="3"><field
+            position="a3"><piece
+              type="P"></piece></field><field
+            position="b3"></field><field
+            position="c3"></field><field
+            position="d3"></field><field
+            position="e3"></field><field
+            position="f3"></field><field
+            position="g3"></field><field
+            position="h3"><piece
+              type="r"></piece></field></row><row
+          position="2"><field
+            position="a2"></field><field
+            position="b2"><piece
+              type="B"></piece></field><field
+            position="c2"></field><field
+            position="d2"></field><field
+            position="e2"></field><field
+            position="f2"><piece
+              type="R"></piece></field><field
+            position="g2"><piece
+              type="Q"></piece></field><field
+            position="h2"><piece
+              type="P"></piece></field></row><row
+          position="1"><field
+            position="a1"><piece
+              type="R"></piece></field><field
+            position="b1"></field><field
+            position="c1"></field><field
+            position="d1"></field><field
+            position="e1"></field><field
+            position="f1"></field><field
+            position="g1"></field><field
+            position="h1"><piece
+              type="K"></piece></field></row></board><alternativeMoves><move
+          id="G95239-cafe_M2"
+          nextID="G95239-cafe_M3"
+          parentID="G95239-cafe_M-1"
+          longNotation="1.Rf1-f3"
+          activeColor="b"
+          fenDiagram="6k1/5ppp/pb2p3/1p2P3/1P2bPnP/P4R1r/1B4QP/R6K"><fideNotation>1.Rf3</fideNotation><board visible="true">
+            <row position="8">
+              <field position="a8"/>
+              <field position="b8"/>
+              <field position="c8"/>
+              <field position="d8"/>
+              <field position="e8"/>
+              <field position="f8"/>
+              <field position="g8">
+                <piece type="k"/>
+              </field>
+              <field position="h8"/>
+            </row>
+            <row position="7">
+              <field position="a7"/>
+              <field position="b7"/>
+              <field position="c7"/>
+              <field position="d7"/>
+              <field position="e7"/>
+              <field position="f7">
+                <piece type="p"/>
+              </field>
+              <field position="g7">
+                <piece type="p"/>
+              </field>
+              <field position="h7">
+                <piece type="p"/>
+              </field>
+            </row>
+            <row position="6">
+              <field position="a6">
+                <piece type="p"/>
+              </field>
+              <field position="b6">
+                <piece type="b"/>
+              </field>
+              <field position="c6"/>
+              <field position="d6"/>
+              <field position="e6">
+                <piece type="p"/>
+              </field>
+              <field position="f6"/>
+              <field position="g6"/>
+              <field position="h6"/>
+            </row>
+            <row position="5">
+              <field position="a5"/>
+              <field position="b5">
+                <piece type="p"/>
+              </field>
+              <field position="c5"/>
+              <field position="d5"/>
+              <field position="e5">
+                <piece type="P"/>
+              </field>
+              <field position="f5"/>
+              <field position="g5"/>
+              <field position="h5"/>
+            </row>
+            <row position="4">
+              <field position="a4"/>
+              <field position="b4">
+                <piece type="P"/>
+              </field>
+              <field position="c4"/>
+              <field position="d4"/>
+              <field position="e4">
+                <piece type="b"/>
+              </field>
+              <field position="f4">
+                <piece type="P"/>
+              </field>
+              <field position="g4">
+                <piece type="n"/>
+              </field>
+              <field position="h4">
+                <piece type="P"/>
+              </field>
+            </row>
+            <row position="3">
+              <field position="a3">
+                <piece type="P"/>
+              </field>
+              <field position="b3"/>
+              <field position="c3"/>
+              <field position="d3"/>
+              <field position="e3"/>
+              <field position="f3">
+                <piece type="R"/>
+              </field>
+              <field position="g3"/>
+              <field position="h3">
+                <piece type="r"/>
+              </field>
+            </row>
+            <row position="2">
+              <field position="a2"/>
+              <field position="b2">
+                <piece type="B"/>
+              </field>
+              <field position="c2"/>
+              <field position="d2"/>
+              <field position="e2"/>
+              <field position="f2"/>
+              <field position="g2">
+                <piece type="Q"/>
+              </field>
+              <field position="h2">
+                <piece type="P"/>
+              </field>
+            </row>
+            <row position="1">
+              <field position="a1">
+                <piece type="R"/>
+              </field>
+              <field position="b1"/>
+              <field position="c1"/>
+              <field position="d1"/>
+              <field position="e1"/>
+              <field position="f1"/>
+              <field position="g1"/>
+              <field position="h1">
+                <piece type="K"/>
+              </field>
+            </row>
+          </board></move><move
+          id="G95239-cafe_M3"
+          nextID="G95239-cafe_M4"
+          parentID="G95239-cafe_M2"
+          longNotation="Be4xf3"
+          activeColor="w"
+          fenDiagram="6k1/5ppp/pb2p3/1p2P3/1P3PnP/P4b1r/1B4QP/R6K"><fideNotation>Bxf3</fideNotation><board
+            visible="false"><row
+              position="8"><field
+                position="a8"></field><field
+                position="b8"></field><field
+                position="c8"></field><field
+                position="d8"></field><field
+                position="e8"></field><field
+                position="f8"></field><field
+                position="g8"><piece
+                  type="k"></piece></field><field
+                position="h8"></field></row><row
+              position="7"><field
+                position="a7"></field><field
+                position="b7"></field><field
+                position="c7"></field><field
+                position="d7"></field><field
+                position="e7"></field><field
+                position="f7"><piece
+                  type="p"></piece></field><field
+                position="g7"><piece
+                  type="p"></piece></field><field
+                position="h7"><piece
+                  type="p"></piece></field></row><row
+              position="6"><field
+                position="a6"><piece
+                  type="p"></piece></field><field
+                position="b6"><piece
+                  type="b"></piece></field><field
+                position="c6"></field><field
+                position="d6"></field><field
+                position="e6"><piece
+                  type="p"></piece></field><field
+                position="f6"></field><field
+                position="g6"></field><field
+                position="h6"></field></row><row
+              position="5"><field
+                position="a5"></field><field
+                position="b5"><piece
+                  type="p"></piece></field><field
+                position="c5"></field><field
+                position="d5"></field><field
+                position="e5"><piece
+                  type="P"></piece></field><field
+                position="f5"></field><field
+                position="g5"></field><field
+                position="h5"></field></row><row
+              position="4"><field
+                position="a4"></field><field
+                position="b4"><piece
+                  type="P"></piece></field><field
+                position="c4"></field><field
+                position="d4"></field><field
+                position="e4"></field><field
+                position="f4"><piece
+                  type="P"></piece></field><field
+                position="g4"><piece
+                  type="n"></piece></field><field
+                position="h4"><piece
+                  type="P"></piece></field></row><row
+              position="3"><field
+                position="a3"><piece
+                  type="P"></piece></field><field
+                position="b3"></field><field
+                position="c3"></field><field
+                position="d3"></field><field
+                position="e3"></field><field
+                position="f3"><piece
+                  type="b"></piece></field><field
+                position="g3"></field><field
+                position="h3"><piece
+                  type="r"></piece></field></row><row
+              position="2"><field
+                position="a2"></field><field
+                position="b2"><piece
+                  type="B"></piece></field><field
+                position="c2"></field><field
+                position="d2"></field><field
+                position="e2"></field><field
+                position="f2"></field><field
+                position="g2"><piece
+                  type="Q"></piece></field><field
+                position="h2"><piece
+                  type="P"></piece></field></row><row
+              position="1"><field
+                position="a1"><piece
+                  type="R"></piece></field><field
+                position="b1"></field><field
+                position="c1"></field><field
+                position="d1"></field><field
+                position="e1"></field><field
+                position="f1"></field><field
+                position="g1"></field><field
+                position="h1"><piece
+                  type="K"></piece></field></row></board></move><move
+          id="G95239-cafe_M4"
+          nextID="G95239-cafe_M5"
+          parentID="G95239-cafe_M3"
+          longNotation="2.Qg2xf3"
+          activeColor="b"
+          fenDiagram="6k1/5ppp/pb2p3/1p2P3/1P3PnP/P4Q1r/1B5P/R6K"><fideNotation>2.Qxf3</fideNotation><board
+            visible="false"><row
+              position="8"><field
+                position="a8"></field><field
+                position="b8"></field><field
+                position="c8"></field><field
+                position="d8"></field><field
+                position="e8"></field><field
+                position="f8"></field><field
+                position="g8"><piece
+                  type="k"></piece></field><field
+                position="h8"></field></row><row
+              position="7"><field
+                position="a7"></field><field
+                position="b7"></field><field
+                position="c7"></field><field
+                position="d7"></field><field
+                position="e7"></field><field
+                position="f7"><piece
+                  type="p"></piece></field><field
+                position="g7"><piece
+                  type="p"></piece></field><field
+                position="h7"><piece
+                  type="p"></piece></field></row><row
+              position="6"><field
+                position="a6"><piece
+                  type="p"></piece></field><field
+                position="b6"><piece
+                  type="b"></piece></field><field
+                position="c6"></field><field
+                position="d6"></field><field
+                position="e6"><piece
+                  type="p"></piece></field><field
+                position="f6"></field><field
+                position="g6"></field><field
+                position="h6"></field></row><row
+              position="5"><field
+                position="a5"></field><field
+                position="b5"><piece
+                  type="p"></piece></field><field
+                position="c5"></field><field
+                position="d5"></field><field
+                position="e5"><piece
+                  type="P"></piece></field><field
+                position="f5"></field><field
+                position="g5"></field><field
+                position="h5"></field></row><row
+              position="4"><field
+                position="a4"></field><field
+                position="b4"><piece
+                  type="P"></piece></field><field
+                position="c4"></field><field
+                position="d4"></field><field
+                position="e4"></field><field
+                position="f4"><piece
+                  type="P"></piece></field><field
+                position="g4"><piece
+                  type="n"></piece></field><field
+                position="h4"><piece
+                  type="P"></piece></field></row><row
+              position="3"><field
+                position="a3"><piece
+                  type="P"></piece></field><field
+                position="b3"></field><field
+                position="c3"></field><field
+                position="d3"></field><field
+                position="e3"></field><field
+                position="f3"><piece
+                  type="Q"></piece></field><field
+                position="g3"></field><field
+                position="h3"><piece
+                  type="r"></piece></field></row><row
+              position="2"><field
+                position="a2"></field><field
+                position="b2"><piece
+                  type="B"></piece></field><field
+                position="c2"></field><field
+                position="d2"></field><field
+                position="e2"></field><field
+                position="f2"></field><field
+                position="g2"></field><field
+                position="h2"><piece
+                  type="P"></piece></field></row><row
+              position="1"><field
+                position="a1"><piece
+                  type="R"></piece></field><field
+                position="b1"></field><field
+                position="c1"></field><field
+                position="d1"></field><field
+                position="e1"></field><field
+                position="f1"></field><field
+                position="g1"></field><field
+                position="h1"><piece
+                  type="K"></piece></field></row></board></move><move
+          id="G95239-cafe_M5"
+          nextID="G95239-cafe_M-1"
+          parentID="G95239-cafe_M4"
+          longNotation="Rh3xh2X"
+          activeColor="w"
+          fenDiagram="6k1/5ppp/pb2p3/1p2P3/1P3PnP/P4Q2/1B5r/R6K"><fideNotation>Rxh2X</fideNotation><board
+            visible="false"><row
+              position="8"><field
+                position="a8"></field><field
+                position="b8"></field><field
+                position="c8"></field><field
+                position="d8"></field><field
+                position="e8"></field><field
+                position="f8"></field><field
+                position="g8"><piece
+                  type="k"></piece></field><field
+                position="h8"></field></row><row
+              position="7"><field
+                position="a7"></field><field
+                position="b7"></field><field
+                position="c7"></field><field
+                position="d7"></field><field
+                position="e7"></field><field
+                position="f7"><piece
+                  type="p"></piece></field><field
+                position="g7"><piece
+                  type="p"></piece></field><field
+                position="h7"><piece
+                  type="p"></piece></field></row><row
+              position="6"><field
+                position="a6"><piece
+                  type="p"></piece></field><field
+                position="b6"><piece
+                  type="b"></piece></field><field
+                position="c6"></field><field
+                position="d6"></field><field
+                position="e6"><piece
+                  type="p"></piece></field><field
+                position="f6"></field><field
+                position="g6"></field><field
+                position="h6"></field></row><row
+              position="5"><field
+                position="a5"></field><field
+                position="b5"><piece
+                  type="p"></piece></field><field
+                position="c5"></field><field
+                position="d5"></field><field
+                position="e5"><piece
+                  type="P"></piece></field><field
+                position="f5"></field><field
+                position="g5"></field><field
+                position="h5"></field></row><row
+              position="4"><field
+                position="a4"></field><field
+                position="b4"><piece
+                  type="P"></piece></field><field
+                position="c4"></field><field
+                position="d4"></field><field
+                position="e4"></field><field
+                position="f4"><piece
+                  type="P"></piece></field><field
+                position="g4"><piece
+                  type="n"></piece></field><field
+                position="h4"><piece
+                  type="P"></piece></field></row><row
+              position="3"><field
+                position="a3"><piece
+                  type="P"></piece></field><field
+                position="b3"></field><field
+                position="c3"></field><field
+                position="d3"></field><field
+                position="e3"></field><field
+                position="f3"><piece
+                  type="Q"></piece></field><field
+                position="g3"></field><field
+                position="h3"></field></row><row
+              position="2"><field
+                position="a2"></field><field
+                position="b2"><piece
+                  type="B"></piece></field><field
+                position="c2"></field><field
+                position="d2"></field><field
+                position="e2"></field><field
+                position="f2"></field><field
+                position="g2"></field><field
+                position="h2"><piece
+                  type="r"></piece></field></row><row
+              position="1"><field
+                position="a1"><piece
+                  type="R"></piece></field><field
+                position="b1"></field><field
+                position="c1"></field><field
+                position="d1"></field><field
+                position="e1"></field><field
+                position="f1"></field><field
+                position="g1"></field><field
+                position="h1"><piece
+                  type="K"></piece></field></row></board></move></alternativeMoves></move><move
+      id="G95239-cafe_M6"
+      nextID="G95239-cafe_M7"
+      parentID="G95239-cafe_M1"
+      longNotation="1...Bb6xf2"
+      activeColor="w"
+      fenDiagram="6k1/5ppp/p3p3/1p2P3/1P2bPnP/P6r/1B3bQP/R6K"><fideNotation>1...Bxf2</fideNotation><board visible="true">
+        <row position="8">
+          <field position="a8"/>
+          <field position="b8"/>
+          <field position="c8"/>
+          <field position="d8"/>
+          <field position="e8"/>
+          <field position="f8"/>
+          <field position="g8">
+            <piece type="k"/>
+          </field>
+          <field position="h8"/>
+        </row>
+        <row position="7">
+          <field position="a7"/>
+          <field position="b7"/>
+          <field position="c7"/>
+          <field position="d7"/>
+          <field position="e7"/>
+          <field position="f7">
+            <piece type="p"/>
+          </field>
+          <field position="g7">
+            <piece type="p"/>
+          </field>
+          <field position="h7">
+            <piece type="p"/>
+          </field>
+        </row>
+        <row position="6">
+          <field position="a6">
+            <piece type="p"/>
+          </field>
+          <field position="b6"/>
+          <field position="c6"/>
+          <field position="d6"/>
+          <field position="e6">
+            <piece type="p"/>
+          </field>
+          <field position="f6"/>
+          <field position="g6"/>
+          <field position="h6"/>
+        </row>
+        <row position="5">
+          <field position="a5"/>
+          <field position="b5">
+            <piece type="p"/>
+          </field>
+          <field position="c5"/>
+          <field position="d5"/>
+          <field position="e5">
+            <piece type="P"/>
+          </field>
+          <field position="f5"/>
+          <field position="g5"/>
+          <field position="h5"/>
+        </row>
+        <row position="4">
+          <field position="a4"/>
+          <field position="b4">
+            <piece type="P"/>
+          </field>
+          <field position="c4"/>
+          <field position="d4"/>
+          <field position="e4">
+            <piece type="b"/>
+          </field>
+          <field position="f4">
+            <piece type="P"/>
+          </field>
+          <field position="g4">
+            <piece type="n"/>
+          </field>
+          <field position="h4">
+            <piece type="P"/>
+          </field>
+        </row>
+        <row position="3">
+          <field position="a3">
+            <piece type="P"/>
+          </field>
+          <field position="b3"/>
+          <field position="c3"/>
+          <field position="d3"/>
+          <field position="e3"/>
+          <field position="f3"/>
+          <field position="g3"/>
+          <field position="h3">
+            <piece type="r"/>
+          </field>
+        </row>
+        <row position="2">
+          <field position="a2"/>
+          <field position="b2">
+            <piece type="B"/>
+          </field>
+          <field position="c2"/>
+          <field position="d2"/>
+          <field position="e2"/>
+          <field position="f2">
+            <piece type="b"/>
+          </field>
+          <field position="g2">
+            <piece type="Q"/>
+          </field>
+          <field position="h2">
+            <piece type="P"/>
+          </field>
+        </row>
+        <row position="1">
+          <field position="a1">
+            <piece type="R"/>
+          </field>
+          <field position="b1"/>
+          <field position="c1"/>
+          <field position="d1"/>
+          <field position="e1"/>
+          <field position="f1"/>
+          <field position="g1"/>
+          <field position="h1">
+            <piece type="K"/>
+          </field>
+        </row>
+      </board></move><move
+      id="G95239-cafe_M7"
+      nextID="G95239-cafe_M8"
+      parentID="G95239-cafe_M6"
+      longNotation="2.Qg2xe4"
+      activeColor="b"
+      fenDiagram="6k1/5ppp/p3p3/1p2P3/1P2QPnP/P6r/1B3b1P/R6K"><fideNotation>2.Qxe4</fideNotation><board
+        visible="false"><row
+          position="8"><field
+            position="a8"></field><field
+            position="b8"></field><field
+            position="c8"></field><field
+            position="d8"></field><field
+            position="e8"></field><field
+            position="f8"></field><field
+            position="g8"><piece
+              type="k"></piece></field><field
+            position="h8"></field></row><row
+          position="7"><field
+            position="a7"></field><field
+            position="b7"></field><field
+            position="c7"></field><field
+            position="d7"></field><field
+            position="e7"></field><field
+            position="f7"><piece
+              type="p"></piece></field><field
+            position="g7"><piece
+              type="p"></piece></field><field
+            position="h7"><piece
+              type="p"></piece></field></row><row
+          position="6"><field
+            position="a6"><piece
+              type="p"></piece></field><field
+            position="b6"></field><field
+            position="c6"></field><field
+            position="d6"></field><field
+            position="e6"><piece
+              type="p"></piece></field><field
+            position="f6"></field><field
+            position="g6"></field><field
+            position="h6"></field></row><row
+          position="5"><field
+            position="a5"></field><field
+            position="b5"><piece
+              type="p"></piece></field><field
+            position="c5"></field><field
+            position="d5"></field><field
+            position="e5"><piece
+              type="P"></piece></field><field
+            position="f5"></field><field
+            position="g5"></field><field
+            position="h5"></field></row><row
+          position="4"><field
+            position="a4"></field><field
+            position="b4"><piece
+              type="P"></piece></field><field
+            position="c4"></field><field
+            position="d4"></field><field
+            position="e4"><piece
+              type="Q"></piece></field><field
+            position="f4"><piece
+              type="P"></piece></field><field
+            position="g4"><piece
+              type="n"></piece></field><field
+            position="h4"><piece
+              type="P"></piece></field></row><row
+          position="3"><field
+            position="a3"><piece
+              type="P"></piece></field><field
+            position="b3"></field><field
+            position="c3"></field><field
+            position="d3"></field><field
+            position="e3"></field><field
+            position="f3"></field><field
+            position="g3"></field><field
+            position="h3"><piece
+              type="r"></piece></field></row><row
+          position="2"><field
+            position="a2"></field><field
+            position="b2"><piece
+              type="B"></piece></field><field
+            position="c2"></field><field
+            position="d2"></field><field
+            position="e2"></field><field
+            position="f2"><piece
+              type="b"></piece></field><field
+            position="g2"></field><field
+            position="h2"><piece
+              type="P"></piece></field></row><row
+          position="1"><field
+            position="a1"><piece
+              type="R"></piece></field><field
+            position="b1"></field><field
+            position="c1"></field><field
+            position="d1"></field><field
+            position="e1"></field><field
+            position="f1"></field><field
+            position="g1"></field><field
+            position="h1"><piece
+              type="K"></piece></field></row></board></move><move
+      id="G95239-cafe_M8"
+      nextID="G95239-cafe_M-1"
+      parentID="G95239-cafe_M7"
+      longNotation="Rh3xh2X"
+      activeColor="w"
+      fenDiagram="6k1/5ppp/p3p3/1p2P3/1P2QPnP/P7/1B3b1r/R6K"><fideNotation>Rxh2X</fideNotation><board
+        visible="false"><row
+          position="8"><field
+            position="a8"></field><field
+            position="b8"></field><field
+            position="c8"></field><field
+            position="d8"></field><field
+            position="e8"></field><field
+            position="f8"></field><field
+            position="g8"><piece
+              type="k"></piece></field><field
+            position="h8"></field></row><row
+          position="7"><field
+            position="a7"></field><field
+            position="b7"></field><field
+            position="c7"></field><field
+            position="d7"></field><field
+            position="e7"></field><field
+            position="f7"><piece
+              type="p"></piece></field><field
+            position="g7"><piece
+              type="p"></piece></field><field
+            position="h7"><piece
+              type="p"></piece></field></row><row
+          position="6"><field
+            position="a6"><piece
+              type="p"></piece></field><field
+            position="b6"></field><field
+            position="c6"></field><field
+            position="d6"></field><field
+            position="e6"><piece
+              type="p"></piece></field><field
+            position="f6"></field><field
+            position="g6"></field><field
+            position="h6"></field></row><row
+          position="5"><field
+            position="a5"></field><field
+            position="b5"><piece
+              type="p"></piece></field><field
+            position="c5"></field><field
+            position="d5"></field><field
+            position="e5"><piece
+              type="P"></piece></field><field
+            position="f5"></field><field
+            position="g5"></field><field
+            position="h5"></field></row><row
+          position="4"><field
+            position="a4"></field><field
+            position="b4"><piece
+              type="P"></piece></field><field
+            position="c4"></field><field
+            position="d4"></field><field
+            position="e4"><piece
+              type="Q"></piece></field><field
+            position="f4"><piece
+              type="P"></piece></field><field
+            position="g4"><piece
+              type="n"></piece></field><field
+            position="h4"><piece
+              type="P"></piece></field></row><row
+          position="3"><field
+            position="a3"><piece
+              type="P"></piece></field><field
+            position="b3"></field><field
+            position="c3"></field><field
+            position="d3"></field><field
+            position="e3"></field><field
+            position="f3"></field><field
+            position="g3"></field><field
+            position="h3"></field></row><row
+          position="2"><field
+            position="a2"></field><field
+            position="b2"><piece
+              type="B"></piece></field><field
+            position="c2"></field><field
+            position="d2"></field><field
+            position="e2"></field><field
+            position="f2"><piece
+              type="b"></piece></field><field
+            position="g2"></field><field
+            position="h2"><piece
+              type="r"></piece></field></row><row
+          position="1"><field
+            position="a1"><piece
+              type="R"></piece></field><field
+            position="b1"></field><field
+            position="c1"></field><field
+            position="d1"></field><field
+            position="e1"></field><field
+            position="f1"></field><field
+            position="g1"></field><field
+            position="h1"><piece
+              type="K"></piece></field></row></board></move></moves>
+</game>

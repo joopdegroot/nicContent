@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns="http://www.newinchess.com/standards"
+       xmlns:xlink="http://www.w3.org/1999/xlink">
+   <cover>
+      <coverPhoto>
+         <photographer countryID="NLD">
+            <firstname>Johannes</firstname>
+            <surname>Schraper</surname>
+            <affiliation>Hollands Hoogte</affiliation>
+         </photographer>
+         <imageobject role="backgroundFullpage">
+            <imagedata align="center" depth="1800" width="600"
+               fileref="../images/frontcover/Zurich2013%20122%20anand.JPG"/>
+         </imageobject>
+      </coverPhoto>
+      <teaser priority="01" articleID="NIC_2013_2_column_1">Uncomfortable quick draw between Eljanov and So</teaser>
+      <teaser priority="02" articleID="NIC_2013_2_column_2">What more do you want? Spectators?</teaser>
+      <teaser priority="02" articleID="NIC_2013_2_interview_1">Is that all you have to ask?</teaser>
+      <teaser priority="05" articleID="NIC_2013_2_cafe_2">Uncomfortable quick draw between Eljanov and So</teaser>
+   </cover>
+   <toc>
+      <tocentry pagenum="00" articleID="NIC_2013_2_cafe_1">
+         <title> Mentality</title>
+         <abstract>
+            <para>"Big clash" between Pavel Eljanov and Wesley So: 1.d4 &amp;#9816;f6 2.c4 g6
+                3&amp;#9816;c3 d5 ½-½ </para>
+         </abstract>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_2_cafe_2">
+         <title> Mentality as a second thought</title>
+         <abstract>
+            <para>"Big clash" between Pavel Eljanov and Wesley So: 1.d4 &amp;#9816;f6 2.c4 g6
+                3&amp;#9816;c3 d5 ½-½ </para>
+         </abstract>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_2_column_1">
+         <title> Mentality as a third thought</title>
+         <abstract>
+            <para>"Big clash" between Pavel Eljanov and Wesley So: 1.d4 &amp;#9816;f6 2.c4 g6
+                3&amp;#9816;c3 d5 ½-½ </para>
+         </abstract>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_2_column_2">
+         <title> Mentality as a fourth thought</title>
+         <abstract>
+            <para>"Big clash" between Pavel Eljanov and Wesley So: 1.d4 &amp;#9816;f6 2.c4 g6
+                3&amp;#9816;c3 d5 ½-½ </para>
+         </abstract>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_2_puzzle_1">
+         <title>Killer K's</title>
+      </tocentry>
+      <tocentry pagenum="00" articleID="NIC_2013_2_interview_1">
+         <title>Ask some more</title>
+         <abstract>
+            <para>"Big clash" between Pavel Eljanov and Wesley So: 1.d4 ♘f6 2.c4 g6
+                3♘c3 d5 ½-½ </para>
+         </abstract>
+      </tocentry>
+   </toc>
+   <contributors>
+      <title>Authors</title>
+      <contributor>
+         <firstname>Yury</firstname>
+         <surname>Kinzansky</surname>
+      </contributor>
+      <contributor countryID="NLD">
+         <firstname>Dirk</firstname>
+         <surname>Ten Geuzedam</surname>
+         <affiliation>Editorial Board</affiliation>
+      </contributor>
+   </contributors>
+   <contributors>
+      <title>Photographers / artists</title>
+      <contributor>
+         <firstname>Adrian</firstname>
+         <surname>Comballey</surname>
+         <affiliation>Reuters</affiliation>
+      </contributor>
+   </contributors>
+   <contributors>
+      <title>Coverphoto</title>
+      <contributor countryID="NLD">
+         <firstname>Johannes</firstname>
+         <surname>Schraper</surname>
+         <affiliation>Hollands Hoogte</affiliation>
+      </contributor>
+   </contributors>
+   <colophon>
+      <title>COLOPHON</title>
+      <para>
+         <emphasis role="bold">PUBLISHER:</emphasis> Allard Hoogland</para>
+      <para>
+         <emphasis role="bold">EDITORS-IN-CHIEF:</emphasis> Dirk Jan ten Geuzendam, Jan
+    Timman</para>
+      <para>
+         <emphasis role="bold">CONTRIBUTING EDITOR:</emphasis> Anish Giri</para>
+      <para>
+         <emphasis role="bold">EDITORS:</emphasis> Peter Boel, RenÈ Olthof</para>
+      <para>
+         <emphasis role="bold">ART-DIRECTION:</emphasis> Jan Scholtus</para>
+      <para>
+         <emphasis role="bold">PRODUCTION:</emphasis> Joop de Groot</para>
+      <para>
+         <emphasis role="bold">TRANSLATORS:</emphasis> Sarah Hurst, Ken Neat, Piet
+    Verhagen</para>
+      <para>
+         <emphasis role="bold">SALES AND ADVERTISING:</emphasis> Remmelt Otten</para>
+      <para/>
+      <para>© No part of this magazine may be reproduced, stored in a retrieval system or
+    transmitted in any form or by any means, recording or otherwise, without the prior
+    permission of the publisher.</para>
+      <para/>
+      <para>
+         <emphasis role="bold">NEW IN CHESS</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">P.O. BOX 1093</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">1810 KB ALKMAAR</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">THE NETHERLANDS</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">PHONE: 00-31-(0)72-51 27 137</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">FAX: 00-31-(0)72-51 58 234</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">E-MAIL:</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">SUBSCRIPTIONS:</emphasis> nic@newinchess.com</para>
+      <para>
+         <emphasis role="bold">EDITORS:</emphasis> editors@newinchess.com</para>
+      <para>
+         <emphasis role="bold">SALES AND ADVERTISING:</emphasis> otten@newinchess.com</para>
+      <para/>
+      <para>
+         <emphasis role="bold">BANK DETAILS:</emphasis>
+      </para>
+      <para>
+         <emphasis role="bold">IBAN:</emphasis> NL41ABNA 0589126024</para>
+      <para>
+         <emphasis role="bold">BIC:</emphasis> ABNANL2A in favour of Interchess BV,Alkmaar, The Netherlands</para>
+      <para/>
+      <para>
+         <emphasis role="bold">WWW.NEWINCHESS.COM</emphasis>
+      </para>
+   </colophon>
+</front>

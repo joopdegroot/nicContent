@@ -1,0 +1,139 @@
+[Event "75th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.25"]
+[Round "11.6"]
+[White "Giri, A."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "E01"]
+[WhiteElo "2720"]
+[BlackElo "2781"]
+[Annotator "Giri,Anish"]
+[PlyCount "55"]
+[EventDate "2013.01.12"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.01.28"]
+
+{Normally, when writing an introduction to a game that I won, I would write
+something about my tournament situation and the reason why I was particularly
+ambitious for this game. This time I simply had too many reasons to be
+ambitious, so a fight it would definitely be.} 1. d4 {When I played Fabiano in
+Wijk aan Zee last year, it was hard for me. I didn't know what to expect, as I
+share most of my repertoire with him (and a disastrous loss it was!). Now
+things were even worse and even more of our cards were known to the other 
+(both Caruana and Giri are being trained by Vladimir Chuchelov - ed.).
+Nevertheless, I decided to just prepare as I would do with any other player.}
+d5 2. c4 e6 {When thinking about what Fabiano would do in an attempt not to
+play our main openings, the Grunfeld and the Slav, by applying the method of
+elimination, I realized that ...Bb4+ somewhere was the only way for him. But I
+forgot one other line.} 3. Nf3 c6 {The Noteboom Slav, always a surprise. Now
+it became a little bit of a guessing game: Who knows what? Where to go? And
+where to deviate?} 4. Nc3 {I decided to stay principled and ask him if he is
+really ready to bluff me all the way.} dxc4 $1 {And he was!} 5. a4 Bb4 6. g3 $5
+{Finally I decided to transpose into my favourite type of position with a
+bishop on g2, leading to some sort of a Catalan. Believe me, I have played the
+move g2-g3 when it was far more inappropriate than in this position.} (6. e3 {
+leads to highly complex positions that I am slightly familiar with after} b5 7.
+Bd2 a5 8. axb5 Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4 {, but I saw no need
+to take the game out of my comfort zone.}) 6... Nf6 {I think this is a wrong
+choice. With this particular move-order, Black had another very tempting
+option.} ({After} 6... c5 $5 {basically my only reference was a game Del
+Rio-Perez Candelario, played at a board close to me in the recent Spanish
+League. The good thing about those competitions is that you get to know many
+other players, with their own ideas and views on chess. That game continued:}
+7. Bg2 Nc6 8. Be3 Nge7 $1 {An aesthetically very pleasing move. Now Del Rio
+went} 9. O-O $6 {and his opponent took on d4. When I asked him what was wrong
+with9...Nf5, he nodded and said: 'Yes, ...Nf5 is better!'. But when thinking
+about my move 6.g3 I realized that instead of 9.0-0, White can take on c5. I
+quickly scanned the possibilities and came to the conclusion that I shouldn't
+be much worse. That, combined with the bishop on g2- enough reasons to go for
+it!} ({After} 9. dxc5 {things are not that easy for Black. For example in the
+game Harikrishna-Nyback, he got under pressure after} Nd5 10. Bd2 Nxc3 11. Bxc3
+Bxc3+ 12. bxc3 Qa5 13. O-O Qxc5 14. Rb1 a6 15. Nd2 O-O 16. Ne4 Qe7 17. Qd6 $1))
+7. Bg2 {Now I was happy.} Nbd7 8. O-O O-O 9. Qc2 {I had no idea about this
+position, but I felt very comfortable. This natural move I made pretty fast.
+My plan includes building up the pressure with Rd1 and also perhaps thinking
+of recapturing the lonely soldier on c4 with moves like Na2 or Nd2.} ({The
+direct} 9. Nd2 {felt premature and indeed after} e5 $1 10. Nxc4 exd4 11. Qxd4
+Nc5 $1 {Black is just better.} (11... Nb6 {was what I had seen and is also
+good enough.})) 9... Qa5 $5 {I don't know where Fabiano excavated this move.
+After the game he told me he thought it was theory. In fact, it was nearly
+never played, but it isn't bad at all. Maybe my opponent had once looked at
+this line, maybe even from some other move order.} ({Instead of the text-move,
+} 9... Qe7 {looks logical, to play for ...e5. It seems premature though in
+view of} 10. Bf4 $1 {, preventing ...e5, and after} a5 (10... Nd5 11. Bd2 {and
+e4 is coming}) 11. e4 {, the queen on e7 is clearly misplaced.}) ({However,} 
+9... a5 $5 {seems the most flexible. Now, once I lose my coordination slightly
+and go for the c4 pawn, Black will get in his ...e5:} 10. Rd1 ({after} 10. e4
+$5 {the game can continue with the standard sequence} e5 $5 (10... h6 {of
+course is also possible.}) 11. dxe5 Ng4 12. e6 $1 fxe6 {with standard
+compensation, but somehow this particular version looks fine for Black.}) 10...
+Qe7 11. Na2 (11. Bf4 $5 {is possible here, too, but Black is happy with the
+inclusion of Rd1 and ...a5:} Nd5 12. Bd2) 11... Bd6 12. Qxc4 e5 13. Qc2 {with
+a balanced position. Both sides have their plusses.}) 10. Na2 {I must say I
+was a bit too optimisti. If Fabiano had found the correct plan things would
+not have been that clear. It was also possible to build up the pressure.} ({
+After} 10. Bg5 $5 {the queen turns out to be misplaced on a5:} h6 11. Bxf6 Nxf6
+12. Ne5 $1) (10. Rd1 $5 {was also an option, and also clever:} e5 11. Na2 $1
+Be7 12. Bd2 $1 {and the queen can't get across the 5th rank to h5:} Qc7 13.
+Qxc4 {.}) 10... Bd6 $2 {The bishop is really awkward here. It reminds me of my
+game with Erwin l'Ami where ...Bd6 was looking more natural at first sight,
+but in fact Be7 was far more clever.} ({After} 10... Be7 {the same sequence
+doesn't work, while the ...e5 push still has enough supporters:} 11. Qxc4 $5 (
+11. Bd2 {was my initial idea, but after} Qh5 {Black will follow up with ...e5
+and have easy play.}) 11... Nb6 12. Qc2 Qxa4 13. b3 Qa5 {. The queen can
+return to its shelter. Still White has compensation for the pawn after} 14. e4
+Nbd7 {and say} 15. Rd1 {.}) 11. Qxc4 $1 Nb6 $2 {Going for a losing sequence.
+This was the last chance for Black to go for the correct plan.} ({After} 11...
+e5 $1 {things aren't too bad, even though I have a good version here with the
+queen on a5 making little sense.}) 12. Qc2 Qxa4 {Let's not abuse the question
+marks, as once you say A, you also say B.} (12... Qf5 {leads nowhere:} 13. Qb3
+Qd5 14. Qd1 $1 {and Nc3 comes with tempo, and then it all unfolds nicely.}) 13.
+b3 Qa5 14. Ne5 $2 {I was so happy with this move that I didn't even realize
+that I could have won the game outright. The fact that  could win on move 14
+shows that perhaps something went wrong with Black's opening, but then again I
+couldn't imagine it was that bad already, especially since Fabiano took a lot
+of time on his last few moves. Still, Bd2 is a threat here and Black is in
+deep trouble.} ({After} 14. e4 $1 Be7 {I have} 15. Ng5 $1 {and I threaten to
+trap the queen and to play e5 at the same time!}) 14... Nbd7 {Almost the only
+move that does not lose material.} 15. Nc4 Qc7 16. Nxd6 {The most ruthless.}
+Qxd6 17. Rd1 {Now I have incredible compensation, something a Catalan player
+never manages to get. Fabiano tries the only way to free himself:} e5 {But
+even that fails:} 18. Nc3 $1 {If not for this resource, Black would have had
+reasonable chances to survive. He is about to solve the problem of his light
+squared bishop problem, but fortunately I realized in time to realize that the
+exchange sac that I initially thought I should avoid is actually something I
+should look forward to.} ({Obviously,} 18. Bb2 {gives strong compensation, but
+after say} exd4 19. Bxd4 Qe7 20. Nc3 a6 21. e4 Rd8 {, intending ...Nf8, Black
+is still in the game. Although even here, he is probably in deep trouble after}
+22. Na4 $1) 18... exd4 19. Ba3 c5 $2 {The position was already bad, but Black
+had to go for the exchange sac anyway with} (19... Qe5 $1 20. Bxf8 Nxf8 {.
+This was what I feared at first when I sat thinking about 18.Nc3. But then I
+noticed that I can actually centralize my knight very nicely:} 21. Ne4 $1 Nd5
+$1 {With this one Black is still fighting, but obviously his position is
+pretty sad anyway:} (21... Bg4 22. Qc5 $1 {was more or less the line I saw}) (
+21... Ne6 {is just losing in the long run:} 22. Nxf6+ Qxf6 23. b4) {for example
+} 22. Qd3 Ne6 23. f4 {when Black can try to sacrifice the whole rook with ...
+Nxf4, but it shouldn't be enough.}) 20. e3 $1 ({Here} 20. Na4 {was tempting
+but after} Re8 21. Nxc5 Qc7 {Black is at least able to complete his
+development, although here, too, of course, he will have a terrible endgame
+ahead.}) 20... d3 {Cute, but it doesn't save Black.} 21. Rxd3 Qb8 {This was
+the last idea of my opponent. Now he is intending ...b6, inviting me to give
+up the long diagonal. However, now my pieces suddenly switch to the kingside.}
+22. Nd5 $1 Nxd5 23. Rxd5 {I had seen my next move coming and was very proud of
+my concept.} b6 24. Bb2 $1 {And suddenly it becomes clear that Black's
+position is hopeless. I have all the diagonals and soon I will have all the
+files too.} a5 {Now I was thinking what would be the most spectacular way to
+win, in order to secure the daily 'public prize' (worth 300 euro - ed.).
+However, not having won a single game in the previous 10 rounds, I got angry
+at myself for having such luxurious thoughts and decided to be safe and enter
+my final piece into the attack (fortunately I won the prize anyway).} 25. Ra4
+$5 {I thought that with two killing bishops, a queen and now two killing rooks,
+nothing could go wrong.} ({Instead of my move there was} 25. Rh5 g6 26. Qf5 $3
+{Sniff-sniff.}) 25... Re8 26. Rg5 g6 27. Bd5 Kf8 28. Rf4 {And as things
+started to look a little too humiliating my opponent congratulated me.} 1-0
+
